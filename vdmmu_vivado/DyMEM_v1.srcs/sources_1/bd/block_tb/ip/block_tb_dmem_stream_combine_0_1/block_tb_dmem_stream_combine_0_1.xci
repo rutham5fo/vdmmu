@@ -1,0 +1,87 @@
+{
+  "schema": "xilinx.com:schema:json_instance:1.0",
+  "ip_inst": {
+    "xci_name": "block_tb_dmem_stream_combine_0_1",
+    "cell_name": "dmem_stream_combine_0",
+    "component_reference": "xilinx.com:module_ref:dmem_stream_combine:1.0",
+    "ip_revision": "1",
+    "gen_directory": "../../../../../../DyMEM_v1.gen/sources_1/bd/block_tb/ip/block_tb_dmem_stream_combine_0_1",
+    "parameters": {
+      "component_parameters": {
+        "MEM_PORTS": [ { "value": "16", "resolve_type": "user", "format": "long", "usage": "all" } ],
+        "BENES_PORTS": [ { "value": "8", "resolve_type": "user", "format": "long", "usage": "all" } ],
+        "AP_WINDOW": [ { "value": "2", "resolve_type": "user", "format": "long", "usage": "all" } ],
+        "TRANSLATORS": [ { "value": "4", "resolve_type": "user", "format": "long", "usage": "all" } ],
+        "DATA_W": [ { "value": "8", "resolve_type": "user", "format": "long", "usage": "all" } ],
+        "OFFSET": [ { "value": "11", "resolve_type": "user", "format": "long", "usage": "all" } ],
+        "MEM_W": [ { "value": "4", "resolve_type": "user", "format": "long", "usage": "all" } ],
+        "BUS_W": [ { "value": "32", "resolve_type": "user", "format": "long", "usage": "all" } ],
+        "ADDR_W": [ { "value": "16", "resolve_type": "user", "format": "long", "usage": "all" } ],
+        "Component_Name": [ { "value": "block_tb_dmem_stream_combine_0_1", "resolve_type": "user", "usage": "all" } ]
+      },
+      "model_parameters": {
+        "MEM_PORTS": [ { "value": "16", "resolve_type": "generated", "format": "long", "usage": "all" } ],
+        "BENES_PORTS": [ { "value": "8", "resolve_type": "generated", "format": "long", "usage": "all" } ],
+        "AP_WINDOW": [ { "value": "2", "resolve_type": "generated", "format": "long", "usage": "all" } ],
+        "TRANSLATORS": [ { "value": "4", "resolve_type": "generated", "format": "long", "usage": "all" } ],
+        "DATA_W": [ { "value": "8", "resolve_type": "generated", "format": "long", "usage": "all" } ],
+        "OFFSET": [ { "value": "11", "resolve_type": "generated", "format": "long", "usage": "all" } ],
+        "MEM_W": [ { "value": "4", "resolve_type": "generated", "format": "long", "usage": "all" } ],
+        "BUS_W": [ { "value": "32", "resolve_type": "generated", "format": "long", "usage": "all" } ],
+        "ADDR_W": [ { "value": "16", "resolve_type": "generated", "format": "long", "usage": "all" } ]
+      },
+      "project_parameters": {
+        "ARCHITECTURE": [ { "value": "zynq" } ],
+        "BASE_BOARD_PART": [ { "value": "tul.com.tw:pynq-z2:part0:1.0" } ],
+        "BOARD_CONNECTIONS": [ { "value": "" } ],
+        "DEVICE": [ { "value": "xc7z020" } ],
+        "PACKAGE": [ { "value": "clg400" } ],
+        "PREFHDL": [ { "value": "VERILOG" } ],
+        "SILICON_REVISION": [ { "value": "" } ],
+        "SIMULATOR_LANGUAGE": [ { "value": "MIXED" } ],
+        "SPEEDGRADE": [ { "value": "-1" } ],
+        "STATIC_POWER": [ { "value": "" } ],
+        "TEMPERATURE_GRADE": [ { "value": "" } ]
+      },
+      "runtime_parameters": {
+        "IPCONTEXT": [ { "value": "IP_Integrator" } ],
+        "IPREVISION": [ { "value": "1" } ],
+        "MANAGED": [ { "value": "TRUE" } ],
+        "OUTPUTDIR": [ { "value": "../../../../../../DyMEM_v1.gen/sources_1/bd/block_tb/ip/block_tb_dmem_stream_combine_0_1" } ],
+        "SELECTEDSIMMODEL": [ { "value": "" } ],
+        "SHAREDDIR": [ { "value": "../../ipshared" } ],
+        "SWVERSION": [ { "value": "2023.2" } ],
+        "SYNTHESISFLOW": [ { "value": "GLOBAL" } ]
+      }
+    },
+    "boundary": {
+      "ports": {
+        "i_pl_rd_addr_0": [ { "direction": "in", "size_left": "31", "size_right": "0" } ],
+        "i_pl_rd_addr_1": [ { "direction": "in", "size_left": "31", "size_right": "0" } ],
+        "i_pl_rd_addr_2": [ { "direction": "in", "size_left": "31", "size_right": "0" } ],
+        "i_pl_rd_addr_3": [ { "direction": "in", "size_left": "31", "size_right": "0" } ],
+        "i_pl_rd_addr_vld_0": [ { "direction": "in" } ],
+        "i_pl_rd_addr_vld_1": [ { "direction": "in" } ],
+        "i_pl_rd_addr_vld_2": [ { "direction": "in" } ],
+        "i_pl_rd_addr_vld_3": [ { "direction": "in" } ],
+        "i_mem_rd_data": [ { "direction": "in", "size_left": "31", "size_right": "0" } ],
+        "i_mem_rd_data_vld": [ { "direction": "in", "size_left": "3", "size_right": "0" } ],
+        "i_port_rdy": [ { "direction": "in", "size_left": "3", "size_right": "0" } ],
+        "o_pl_rd_addr": [ { "direction": "out", "size_left": "63", "size_right": "0" } ],
+        "o_pl_rd_addr_vld": [ { "direction": "out", "size_left": "3", "size_right": "0" } ],
+        "o_port_rdy_0": [ { "direction": "out" } ],
+        "o_port_rdy_1": [ { "direction": "out" } ],
+        "o_port_rdy_2": [ { "direction": "out" } ],
+        "o_port_rdy_3": [ { "direction": "out" } ],
+        "o_mem_rd_data_vld_0": [ { "direction": "out" } ],
+        "o_mem_rd_data_vld_1": [ { "direction": "out" } ],
+        "o_mem_rd_data_vld_2": [ { "direction": "out" } ],
+        "o_mem_rd_data_vld_3": [ { "direction": "out" } ],
+        "o_mem_rd_data_0": [ { "direction": "out", "size_left": "7", "size_right": "0" } ],
+        "o_mem_rd_data_1": [ { "direction": "out", "size_left": "7", "size_right": "0" } ],
+        "o_mem_rd_data_2": [ { "direction": "out", "size_left": "7", "size_right": "0" } ],
+        "o_mem_rd_data_3": [ { "direction": "out", "size_left": "7", "size_right": "0" } ]
+      }
+    }
+  }
+}

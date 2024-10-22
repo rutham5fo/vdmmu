@@ -1,0 +1,941 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Sat Aug  3 15:35:22 2024
+| Host         : LAPTOP-SRGHD2GT running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'block_tb_tb_ap_axi_3_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of block_tb_tb_ap_axi_3_0 (xilinx.com:hls:tb_ap_axi:1.0) from (Rev. 2113674009) to (Rev. 2113674032)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'block_tb_tb_ap_axi_3_0'. These changes may impact your design.
+
+
+-Upgraded port 's_axi_PU_rd_ARADDR' width 6 differs from original width 5
+
+-Upgraded port 's_axi_PU_rd_AWADDR' width 6 differs from original width 5
+
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Sat Aug  3 15:35:22 2024
+| Host         : LAPTOP-SRGHD2GT running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'block_tb_tb_ap_axi_2_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of block_tb_tb_ap_axi_2_0 (xilinx.com:hls:tb_ap_axi:1.0) from (Rev. 2113674009) to (Rev. 2113674032)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'block_tb_tb_ap_axi_2_0'. These changes may impact your design.
+
+
+-Upgraded port 's_axi_PU_rd_ARADDR' width 6 differs from original width 5
+
+-Upgraded port 's_axi_PU_rd_AWADDR' width 6 differs from original width 5
+
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Sat Aug  3 15:35:22 2024
+| Host         : LAPTOP-SRGHD2GT running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'block_tb_tb_ap_axi_1_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of block_tb_tb_ap_axi_1_0 (xilinx.com:hls:tb_ap_axi:1.0) from (Rev. 2113674009) to (Rev. 2113674032)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'block_tb_tb_ap_axi_1_0'. These changes may impact your design.
+
+
+-Upgraded port 's_axi_PU_rd_ARADDR' width 6 differs from original width 5
+
+-Upgraded port 's_axi_PU_rd_AWADDR' width 6 differs from original width 5
+
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Sat Aug  3 15:35:22 2024
+| Host         : LAPTOP-SRGHD2GT running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'block_tb_tb_ap_axi_0_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of block_tb_tb_ap_axi_0_0 (xilinx.com:hls:tb_ap_axi:1.0) from (Rev. 2113674009) to (Rev. 2113674032)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'block_tb_tb_ap_axi_0_0'. These changes may impact your design.
+
+
+-Upgraded port 's_axi_PU_rd_ARADDR' width 6 differs from original width 5
+
+-Upgraded port 's_axi_PU_rd_AWADDR' width 6 differs from original width 5
+
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Sat Aug  3 15:11:34 2024
+| Host         : LAPTOP-SRGHD2GT running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'block_tb_tb_ap_axi_3_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of block_tb_tb_ap_axi_3_0 (xilinx.com:hls:tb_ap_axi:1.0) from (Rev. 2113670990) to (Rev. 2113674009)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Interface Information
+------------------------
+
+Detected external interface differences while upgrading 'block_tb_tb_ap_axi_3_0'.
+
+
+-Upgrade has removed interface 'i_mem_rd_data'
+
+-Upgrade has removed interface 'o_mem_rd_addr'
+
+-Upgrade has removed interface 's_axi_PS_rd'
+
+-Upgrade has added interface 's_axi_PU_rd' (xilinx.com:interface:aximm:1.0)
+
+
+3. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'block_tb_tb_ap_axi_3_0'. These changes may impact your design.
+
+
+-Upgrade has removed port 'i_mem_rd_data_dout'
+
+-Upgrade has removed port 'i_mem_rd_data_empty_n'
+
+-Upgrade has removed port 'i_mem_rd_data_read'
+
+-Upgrade has removed port 'o_mem_rd_addr_din'
+
+-Upgrade has removed port 'o_mem_rd_addr_full_n'
+
+-Upgrade has removed port 'o_mem_rd_addr_write'
+
+-Upgrade has removed port 's_axi_PS_rd_ARADDR'
+
+-Upgrade has removed port 's_axi_PS_rd_ARREADY'
+
+-Upgrade has removed port 's_axi_PS_rd_ARVALID'
+
+-Upgrade has removed port 's_axi_PS_rd_AWADDR'
+
+-Upgrade has removed port 's_axi_PS_rd_AWREADY'
+
+-Upgrade has removed port 's_axi_PS_rd_AWVALID'
+
+-Upgrade has removed port 's_axi_PS_rd_BREADY'
+
+-Upgrade has removed port 's_axi_PS_rd_BRESP'
+
+-Upgrade has removed port 's_axi_PS_rd_BVALID'
+
+-Upgrade has removed port 's_axi_PS_rd_RDATA'
+
+-Upgrade has removed port 's_axi_PS_rd_RREADY'
+
+-Upgrade has removed port 's_axi_PS_rd_RRESP'
+
+-Upgrade has removed port 's_axi_PS_rd_RVALID'
+
+-Upgrade has removed port 's_axi_PS_rd_WDATA'
+
+-Upgrade has removed port 's_axi_PS_rd_WREADY'
+
+-Upgrade has removed port 's_axi_PS_rd_WSTRB'
+
+-Upgrade has removed port 's_axi_PS_rd_WVALID'
+
+-Upgrade has added port 'i_ap_port_rdy'
+
+-Upgrade has added port 'i_ap_rd_data'
+
+-Upgrade has added port 'i_ap_rd_data_vld'
+
+-Upgrade has added port 'o_ap_rd_addr'
+
+-Upgrade has added port 'o_ap_rd_addr_ap_vld'
+
+-Upgrade has added port 'o_ap_rd_addr_vld'
+
+-Upgrade has added port 'o_ap_rd_addr_vld_ap_vld'
+
+-Upgrade has added port 's_axi_PU_rd_ARADDR'
+
+-Upgrade has added port 's_axi_PU_rd_ARREADY'
+
+-Upgrade has added port 's_axi_PU_rd_ARVALID'
+
+-Upgrade has added port 's_axi_PU_rd_AWADDR'
+
+-Upgrade has added port 's_axi_PU_rd_AWREADY'
+
+-Upgrade has added port 's_axi_PU_rd_AWVALID'
+
+-Upgrade has added port 's_axi_PU_rd_BREADY'
+
+-Upgrade has added port 's_axi_PU_rd_BRESP'
+
+-Upgrade has added port 's_axi_PU_rd_BVALID'
+
+-Upgrade has added port 's_axi_PU_rd_RDATA'
+
+-Upgrade has added port 's_axi_PU_rd_RREADY'
+
+-Upgrade has added port 's_axi_PU_rd_RRESP'
+
+-Upgrade has added port 's_axi_PU_rd_RVALID'
+
+-Upgrade has added port 's_axi_PU_rd_WDATA'
+
+-Upgrade has added port 's_axi_PU_rd_WREADY'
+
+-Upgrade has added port 's_axi_PU_rd_WSTRB'
+
+-Upgrade has added port 's_axi_PU_rd_WVALID'
+
+
+4. Addressing Information
+-------------------------
+
+Detected addressing differences while upgrading 'block_tb_tb_ap_axi_3_0'. These changes may impact your design.
+
+
+-Upgrade has removed address block 's_axi_PS_rd/Reg'
+
+-Upgrade has added address block 's_axi_PU_rd/Reg'
+
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Sat Aug  3 15:11:34 2024
+| Host         : LAPTOP-SRGHD2GT running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'block_tb_tb_ap_axi_2_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of block_tb_tb_ap_axi_2_0 (xilinx.com:hls:tb_ap_axi:1.0) from (Rev. 2113670990) to (Rev. 2113674009)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Interface Information
+------------------------
+
+Detected external interface differences while upgrading 'block_tb_tb_ap_axi_2_0'.
+
+
+-Upgrade has removed interface 'i_mem_rd_data'
+
+-Upgrade has removed interface 'o_mem_rd_addr'
+
+-Upgrade has removed interface 's_axi_PS_rd'
+
+-Upgrade has added interface 's_axi_PU_rd' (xilinx.com:interface:aximm:1.0)
+
+
+3. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'block_tb_tb_ap_axi_2_0'. These changes may impact your design.
+
+
+-Upgrade has removed port 'i_mem_rd_data_dout'
+
+-Upgrade has removed port 'i_mem_rd_data_empty_n'
+
+-Upgrade has removed port 'i_mem_rd_data_read'
+
+-Upgrade has removed port 'o_mem_rd_addr_din'
+
+-Upgrade has removed port 'o_mem_rd_addr_full_n'
+
+-Upgrade has removed port 'o_mem_rd_addr_write'
+
+-Upgrade has removed port 's_axi_PS_rd_ARADDR'
+
+-Upgrade has removed port 's_axi_PS_rd_ARREADY'
+
+-Upgrade has removed port 's_axi_PS_rd_ARVALID'
+
+-Upgrade has removed port 's_axi_PS_rd_AWADDR'
+
+-Upgrade has removed port 's_axi_PS_rd_AWREADY'
+
+-Upgrade has removed port 's_axi_PS_rd_AWVALID'
+
+-Upgrade has removed port 's_axi_PS_rd_BREADY'
+
+-Upgrade has removed port 's_axi_PS_rd_BRESP'
+
+-Upgrade has removed port 's_axi_PS_rd_BVALID'
+
+-Upgrade has removed port 's_axi_PS_rd_RDATA'
+
+-Upgrade has removed port 's_axi_PS_rd_RREADY'
+
+-Upgrade has removed port 's_axi_PS_rd_RRESP'
+
+-Upgrade has removed port 's_axi_PS_rd_RVALID'
+
+-Upgrade has removed port 's_axi_PS_rd_WDATA'
+
+-Upgrade has removed port 's_axi_PS_rd_WREADY'
+
+-Upgrade has removed port 's_axi_PS_rd_WSTRB'
+
+-Upgrade has removed port 's_axi_PS_rd_WVALID'
+
+-Upgrade has added port 'i_ap_port_rdy'
+
+-Upgrade has added port 'i_ap_rd_data'
+
+-Upgrade has added port 'i_ap_rd_data_vld'
+
+-Upgrade has added port 'o_ap_rd_addr'
+
+-Upgrade has added port 'o_ap_rd_addr_ap_vld'
+
+-Upgrade has added port 'o_ap_rd_addr_vld'
+
+-Upgrade has added port 'o_ap_rd_addr_vld_ap_vld'
+
+-Upgrade has added port 's_axi_PU_rd_ARADDR'
+
+-Upgrade has added port 's_axi_PU_rd_ARREADY'
+
+-Upgrade has added port 's_axi_PU_rd_ARVALID'
+
+-Upgrade has added port 's_axi_PU_rd_AWADDR'
+
+-Upgrade has added port 's_axi_PU_rd_AWREADY'
+
+-Upgrade has added port 's_axi_PU_rd_AWVALID'
+
+-Upgrade has added port 's_axi_PU_rd_BREADY'
+
+-Upgrade has added port 's_axi_PU_rd_BRESP'
+
+-Upgrade has added port 's_axi_PU_rd_BVALID'
+
+-Upgrade has added port 's_axi_PU_rd_RDATA'
+
+-Upgrade has added port 's_axi_PU_rd_RREADY'
+
+-Upgrade has added port 's_axi_PU_rd_RRESP'
+
+-Upgrade has added port 's_axi_PU_rd_RVALID'
+
+-Upgrade has added port 's_axi_PU_rd_WDATA'
+
+-Upgrade has added port 's_axi_PU_rd_WREADY'
+
+-Upgrade has added port 's_axi_PU_rd_WSTRB'
+
+-Upgrade has added port 's_axi_PU_rd_WVALID'
+
+
+4. Addressing Information
+-------------------------
+
+Detected addressing differences while upgrading 'block_tb_tb_ap_axi_2_0'. These changes may impact your design.
+
+
+-Upgrade has removed address block 's_axi_PS_rd/Reg'
+
+-Upgrade has added address block 's_axi_PU_rd/Reg'
+
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Sat Aug  3 15:11:34 2024
+| Host         : LAPTOP-SRGHD2GT running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'block_tb_tb_ap_axi_1_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of block_tb_tb_ap_axi_1_0 (xilinx.com:hls:tb_ap_axi:1.0) from (Rev. 2113670990) to (Rev. 2113674009)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Interface Information
+------------------------
+
+Detected external interface differences while upgrading 'block_tb_tb_ap_axi_1_0'.
+
+
+-Upgrade has removed interface 'i_mem_rd_data'
+
+-Upgrade has removed interface 'o_mem_rd_addr'
+
+-Upgrade has removed interface 's_axi_PS_rd'
+
+-Upgrade has added interface 's_axi_PU_rd' (xilinx.com:interface:aximm:1.0)
+
+
+3. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'block_tb_tb_ap_axi_1_0'. These changes may impact your design.
+
+
+-Upgrade has removed port 'i_mem_rd_data_dout'
+
+-Upgrade has removed port 'i_mem_rd_data_empty_n'
+
+-Upgrade has removed port 'i_mem_rd_data_read'
+
+-Upgrade has removed port 'o_mem_rd_addr_din'
+
+-Upgrade has removed port 'o_mem_rd_addr_full_n'
+
+-Upgrade has removed port 'o_mem_rd_addr_write'
+
+-Upgrade has removed port 's_axi_PS_rd_ARADDR'
+
+-Upgrade has removed port 's_axi_PS_rd_ARREADY'
+
+-Upgrade has removed port 's_axi_PS_rd_ARVALID'
+
+-Upgrade has removed port 's_axi_PS_rd_AWADDR'
+
+-Upgrade has removed port 's_axi_PS_rd_AWREADY'
+
+-Upgrade has removed port 's_axi_PS_rd_AWVALID'
+
+-Upgrade has removed port 's_axi_PS_rd_BREADY'
+
+-Upgrade has removed port 's_axi_PS_rd_BRESP'
+
+-Upgrade has removed port 's_axi_PS_rd_BVALID'
+
+-Upgrade has removed port 's_axi_PS_rd_RDATA'
+
+-Upgrade has removed port 's_axi_PS_rd_RREADY'
+
+-Upgrade has removed port 's_axi_PS_rd_RRESP'
+
+-Upgrade has removed port 's_axi_PS_rd_RVALID'
+
+-Upgrade has removed port 's_axi_PS_rd_WDATA'
+
+-Upgrade has removed port 's_axi_PS_rd_WREADY'
+
+-Upgrade has removed port 's_axi_PS_rd_WSTRB'
+
+-Upgrade has removed port 's_axi_PS_rd_WVALID'
+
+-Upgrade has added port 'i_ap_port_rdy'
+
+-Upgrade has added port 'i_ap_rd_data'
+
+-Upgrade has added port 'i_ap_rd_data_vld'
+
+-Upgrade has added port 'o_ap_rd_addr'
+
+-Upgrade has added port 'o_ap_rd_addr_ap_vld'
+
+-Upgrade has added port 'o_ap_rd_addr_vld'
+
+-Upgrade has added port 'o_ap_rd_addr_vld_ap_vld'
+
+-Upgrade has added port 's_axi_PU_rd_ARADDR'
+
+-Upgrade has added port 's_axi_PU_rd_ARREADY'
+
+-Upgrade has added port 's_axi_PU_rd_ARVALID'
+
+-Upgrade has added port 's_axi_PU_rd_AWADDR'
+
+-Upgrade has added port 's_axi_PU_rd_AWREADY'
+
+-Upgrade has added port 's_axi_PU_rd_AWVALID'
+
+-Upgrade has added port 's_axi_PU_rd_BREADY'
+
+-Upgrade has added port 's_axi_PU_rd_BRESP'
+
+-Upgrade has added port 's_axi_PU_rd_BVALID'
+
+-Upgrade has added port 's_axi_PU_rd_RDATA'
+
+-Upgrade has added port 's_axi_PU_rd_RREADY'
+
+-Upgrade has added port 's_axi_PU_rd_RRESP'
+
+-Upgrade has added port 's_axi_PU_rd_RVALID'
+
+-Upgrade has added port 's_axi_PU_rd_WDATA'
+
+-Upgrade has added port 's_axi_PU_rd_WREADY'
+
+-Upgrade has added port 's_axi_PU_rd_WSTRB'
+
+-Upgrade has added port 's_axi_PU_rd_WVALID'
+
+
+4. Addressing Information
+-------------------------
+
+Detected addressing differences while upgrading 'block_tb_tb_ap_axi_1_0'. These changes may impact your design.
+
+
+-Upgrade has removed address block 's_axi_PS_rd/Reg'
+
+-Upgrade has added address block 's_axi_PU_rd/Reg'
+
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Sat Aug  3 15:11:34 2024
+| Host         : LAPTOP-SRGHD2GT running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'block_tb_tb_ap_axi_0_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of block_tb_tb_ap_axi_0_0 (xilinx.com:hls:tb_ap_axi:1.0) from (Rev. 2113670990) to (Rev. 2113674009)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Interface Information
+------------------------
+
+Detected external interface differences while upgrading 'block_tb_tb_ap_axi_0_0'.
+
+
+-Upgrade has removed interface 'i_mem_rd_data'
+
+-Upgrade has removed interface 'o_mem_rd_addr'
+
+-Upgrade has removed interface 's_axi_PS_rd'
+
+-Upgrade has added interface 's_axi_PU_rd' (xilinx.com:interface:aximm:1.0)
+
+
+3. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'block_tb_tb_ap_axi_0_0'. These changes may impact your design.
+
+
+-Upgrade has removed port 'i_mem_rd_data_dout'
+
+-Upgrade has removed port 'i_mem_rd_data_empty_n'
+
+-Upgrade has removed port 'i_mem_rd_data_read'
+
+-Upgrade has removed port 'o_mem_rd_addr_din'
+
+-Upgrade has removed port 'o_mem_rd_addr_full_n'
+
+-Upgrade has removed port 'o_mem_rd_addr_write'
+
+-Upgrade has removed port 's_axi_PS_rd_ARADDR'
+
+-Upgrade has removed port 's_axi_PS_rd_ARREADY'
+
+-Upgrade has removed port 's_axi_PS_rd_ARVALID'
+
+-Upgrade has removed port 's_axi_PS_rd_AWADDR'
+
+-Upgrade has removed port 's_axi_PS_rd_AWREADY'
+
+-Upgrade has removed port 's_axi_PS_rd_AWVALID'
+
+-Upgrade has removed port 's_axi_PS_rd_BREADY'
+
+-Upgrade has removed port 's_axi_PS_rd_BRESP'
+
+-Upgrade has removed port 's_axi_PS_rd_BVALID'
+
+-Upgrade has removed port 's_axi_PS_rd_RDATA'
+
+-Upgrade has removed port 's_axi_PS_rd_RREADY'
+
+-Upgrade has removed port 's_axi_PS_rd_RRESP'
+
+-Upgrade has removed port 's_axi_PS_rd_RVALID'
+
+-Upgrade has removed port 's_axi_PS_rd_WDATA'
+
+-Upgrade has removed port 's_axi_PS_rd_WREADY'
+
+-Upgrade has removed port 's_axi_PS_rd_WSTRB'
+
+-Upgrade has removed port 's_axi_PS_rd_WVALID'
+
+-Upgrade has added port 'i_ap_port_rdy'
+
+-Upgrade has added port 'i_ap_rd_data'
+
+-Upgrade has added port 'i_ap_rd_data_vld'
+
+-Upgrade has added port 'o_ap_rd_addr'
+
+-Upgrade has added port 'o_ap_rd_addr_ap_vld'
+
+-Upgrade has added port 'o_ap_rd_addr_vld'
+
+-Upgrade has added port 'o_ap_rd_addr_vld_ap_vld'
+
+-Upgrade has added port 's_axi_PU_rd_ARADDR'
+
+-Upgrade has added port 's_axi_PU_rd_ARREADY'
+
+-Upgrade has added port 's_axi_PU_rd_ARVALID'
+
+-Upgrade has added port 's_axi_PU_rd_AWADDR'
+
+-Upgrade has added port 's_axi_PU_rd_AWREADY'
+
+-Upgrade has added port 's_axi_PU_rd_AWVALID'
+
+-Upgrade has added port 's_axi_PU_rd_BREADY'
+
+-Upgrade has added port 's_axi_PU_rd_BRESP'
+
+-Upgrade has added port 's_axi_PU_rd_BVALID'
+
+-Upgrade has added port 's_axi_PU_rd_RDATA'
+
+-Upgrade has added port 's_axi_PU_rd_RREADY'
+
+-Upgrade has added port 's_axi_PU_rd_RRESP'
+
+-Upgrade has added port 's_axi_PU_rd_RVALID'
+
+-Upgrade has added port 's_axi_PU_rd_WDATA'
+
+-Upgrade has added port 's_axi_PU_rd_WREADY'
+
+-Upgrade has added port 's_axi_PU_rd_WSTRB'
+
+-Upgrade has added port 's_axi_PU_rd_WVALID'
+
+
+4. Addressing Information
+-------------------------
+
+Detected addressing differences while upgrading 'block_tb_tb_ap_axi_0_0'. These changes may impact your design.
+
+
+-Upgrade has removed address block 's_axi_PS_rd/Reg'
+
+-Upgrade has added address block 's_axi_PU_rd/Reg'
+
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Thu Aug  1 12:51:35 2024
+| Host         : LAPTOP-SRGHD2GT running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'block_tb_tb_heap_axi_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of block_tb_tb_heap_axi_0_0 (xilinx.com:hls:tb_heap_axi:1.0) from (Rev. 2113670010) to (Rev. 2113670989)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Thu Aug  1 12:51:35 2024
+| Host         : LAPTOP-SRGHD2GT running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'block_tb_tb_ap_axi_3_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of block_tb_tb_ap_axi_3_0 (xilinx.com:hls:tb_ap_axi:1.0) from (Rev. 2113670025) to (Rev. 2113670990)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Thu Aug  1 12:51:35 2024
+| Host         : LAPTOP-SRGHD2GT running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'block_tb_tb_ap_axi_2_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of block_tb_tb_ap_axi_2_0 (xilinx.com:hls:tb_ap_axi:1.0) from (Rev. 2113670025) to (Rev. 2113670990)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Thu Aug  1 12:51:35 2024
+| Host         : LAPTOP-SRGHD2GT running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'block_tb_tb_ap_axi_1_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of block_tb_tb_ap_axi_1_0 (xilinx.com:hls:tb_ap_axi:1.0) from (Rev. 2113670025) to (Rev. 2113670990)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Thu Aug  1 12:51:35 2024
+| Host         : LAPTOP-SRGHD2GT running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'block_tb_tb_ap_axi_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of block_tb_tb_ap_axi_0_0 (xilinx.com:hls:tb_ap_axi:1.0) from (Rev. 2113670025) to (Rev. 2113670990)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Thu Aug  1 12:39:02 2024
+| Host         : LAPTOP-SRGHD2GT running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'block_tb_tb_ap_axi_3_0'
+
+1. Summary
+----------
+
+SUCCESS in the update of block_tb_tb_ap_axi_3_0 (xilinx.com:hls:tb_ap_axi:1.0 (Rev. 2113670025)) to current project options.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Thu Aug  1 12:39:02 2024
+| Host         : LAPTOP-SRGHD2GT running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'block_tb_tb_ap_axi_2_0'
+
+1. Summary
+----------
+
+SUCCESS in the update of block_tb_tb_ap_axi_2_0 (xilinx.com:hls:tb_ap_axi:1.0 (Rev. 2113670025)) to current project options.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Thu Aug  1 12:39:02 2024
+| Host         : LAPTOP-SRGHD2GT running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'block_tb_tb_ap_axi_1_0'
+
+1. Summary
+----------
+
+SUCCESS in the update of block_tb_tb_ap_axi_1_0 (xilinx.com:hls:tb_ap_axi:1.0 (Rev. 2113670025)) to current project options.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Thu Aug  1 12:39:02 2024
+| Host         : LAPTOP-SRGHD2GT running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'block_tb_tb_ap_axi_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the update of block_tb_tb_ap_axi_0_0 (xilinx.com:hls:tb_ap_axi:1.0 (Rev. 2113670025)) to current project options.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Thu Aug  1 12:31:08 2024
+| Host         : LAPTOP-SRGHD2GT running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'block_tb_tb_heap_axi_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the update of block_tb_tb_heap_axi_0_0 (xilinx.com:hls:tb_heap_axi:1.0 (Rev. 2113670010)) to current project options.
+

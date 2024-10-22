@@ -1,0 +1,29 @@
+verilog xil_defaultlib --include "C:/Xilinx/Vivado/2023.2/data/xilinx_vip/include" --include "../../../../DyMEM_v1.gen/sources_1/bd/block_tb/ip/block_tb_dmem_axi_0_0/drivers/dmem_axi_v1_0/src" --include "../../../../DyMEM_v1.gen/sources_1/bd/block_tb/ip/block_tb_tb_heap_axi_0_0/drivers/tb_heap_axi_v1_0/src" --include "../../../../DyMEM_v1.gen/sources_1/bd/block_tb/ip/block_tb_tb_ap_axi_0_0/drivers/tb_ap_axi_v1_0/src" --include "../../../../DyMEM_v1.gen/sources_1/bd/block_tb/ip/block_tb_tb_ap_axi_1_0/drivers/tb_ap_axi_v1_0/src" --include "../../../../DyMEM_v1.gen/sources_1/bd/block_tb/ip/block_tb_tb_ap_axi_2_0/drivers/tb_ap_axi_v1_0/src" --include "../../../../DyMEM_v1.gen/sources_1/bd/block_tb/ip/block_tb_tb_ap_axi_3_0/drivers/tb_ap_axi_v1_0/src" --include "../../../../DyMEM_v1.gen/sources_1/bd/block_tb/ipshared/ec67/hdl" --include "../../../../DyMEM_v1.gen/sources_1/bd/block_tb/ipshared/6b2b/hdl" \
+"../../../bd/block_tb/ip/block_tb_dmem_manager_0_0/sim/block_tb_dmem_manager_0_0.v" \
+"../../../../DyMEM_v1.gen/sources_1/bd/block_tb/ipshared/fac2/hdl/verilog/dmem_axi_DMEM_ctrl_s_axi.v" \
+"../../../../DyMEM_v1.gen/sources_1/bd/block_tb/ipshared/fac2/hdl/verilog/dmem_axi.v" \
+"../../../bd/block_tb/ip/block_tb_dmem_axi_0_0/sim/block_tb_dmem_axi_0_0.v" \
+"../../../../DyMEM_v1.gen/sources_1/bd/block_tb/ipshared/c6b2/hdl/verilog/tb_heap_axi_flow_control_loop_pipe_sequential_init.v" \
+"../../../../DyMEM_v1.gen/sources_1/bd/block_tb/ipshared/c6b2/hdl/verilog/tb_heap_axi_ps_wr_data.v" \
+"../../../../DyMEM_v1.gen/sources_1/bd/block_tb/ipshared/c6b2/hdl/verilog/tb_heap_axi_PS_wr_s_axi.v" \
+"../../../../DyMEM_v1.gen/sources_1/bd/block_tb/ipshared/c6b2/hdl/verilog/tb_heap_axi.v" \
+"../../../bd/block_tb/ip/block_tb_tb_heap_axi_0_0/sim/block_tb_tb_heap_axi_0_0.v" \
+"../../../bd/block_tb/ip/block_tb_dmem_stream_combine_0_1/sim/block_tb_dmem_stream_combine_0_1.v" \
+"../../../../DyMEM_v1.gen/sources_1/bd/block_tb/ipshared/e1c8/hdl/verilog/tb_ap_axi_flow_control_loop_pipe_sequential_init.v" \
+"../../../../DyMEM_v1.gen/sources_1/bd/block_tb/ipshared/e1c8/hdl/verilog/tb_ap_axi_get_data.v" \
+"../../../../DyMEM_v1.gen/sources_1/bd/block_tb/ipshared/e1c8/hdl/verilog/tb_ap_axi_PU_rd_s_axi.v" \
+"../../../../DyMEM_v1.gen/sources_1/bd/block_tb/ipshared/e1c8/hdl/verilog/tb_ap_axi_put_addr.v" \
+"../../../../DyMEM_v1.gen/sources_1/bd/block_tb/ipshared/e1c8/hdl/verilog/tb_ap_axi.v" \
+"../../../bd/block_tb/ip/block_tb_tb_ap_axi_0_0/sim/block_tb_tb_ap_axi_0_0.v" \
+"../../../bd/block_tb/ip/block_tb_tb_ap_axi_1_0/sim/block_tb_tb_ap_axi_1_0.v" \
+"../../../bd/block_tb/ip/block_tb_tb_ap_axi_2_0/sim/block_tb_tb_ap_axi_2_0.v" \
+"../../../bd/block_tb/ip/block_tb_tb_ap_axi_3_0/sim/block_tb_tb_ap_axi_3_0.v" \
+"../../../bd/block_tb/ip/block_tb_processing_system7_0_0/sim/block_tb_processing_system7_0_0.v" \
+"../../../bd/block_tb/ip/block_tb_xbar_0/sim/block_tb_xbar_0.v" \
+"../../../bd/block_tb/ip/block_tb_auto_pc_0/sim/block_tb_auto_pc_0.v" \
+"../../../bd/block_tb/sim/block_tb.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

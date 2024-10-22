@@ -1,0 +1,48 @@
+Time resolution is 1 ps
+              141000 ||| TB || REQUEST[0] -> req_ID = 3 | req_BYTES = 4000 | req_TYPE = 0 | req_VALID = 1
+              172000 ||| TB || RECIEVED ACK | REP_ID = 3 | HEAP_FULL = 00
+              181000 ||| TB || REQUEST[1] -> req_ID = 0 | req_BYTES = 8000 | req_TYPE = 0 | req_VALID = 1
+              212000 ||| TB || RECIEVED ACK | REP_ID = 0 | HEAP_FULL = 00
+              221000 ||| TB || REQUEST[2] -> req_ID = 2 | req_BYTES = 10000 | req_TYPE = 0 | req_VALID = 1
+              252000 ||| TB || RECIEVED ACK | REP_ID = 2 | HEAP_FULL = 00
+              261000 ||| TB || PS || Writing [1] to translator [2] at [4096]
+              271000 ||| TB || PS || Writing [2] to translator [2] at [4097]
+              281000 ||| TB || PS || Writing [3] to translator [2] at [4098]
+              291000 ||| TB || PS || Writing [4] to translator [2] at [4099]
+              301000 ||| TB || PS || Writing [5] to translator [2] at [4100]
+              311000 ||| TB || PS || Writing [6] to translator [2] at [4101]
+              321000 ||| TB || PS || Writing [7] to translator [2] at [4102]
+              331000 ||| TB || PS || Writing [8] to translator [2] at [4103]
+              341000 ||| TB || PS || Writing [9] to translator [2] at [4104]
+              351000 ||| TB || PS || Writing [10] to translator [2] at [4105]
+              391000 ||| TB || PS || Read [1] at [4098] from translator [2]
+              401000 ||| TB || PS || Read [2] at [4099] from translator [2]
+              411000 ||| TB || PS || Read [3] at [4100] from translator [2]
+              421000 ||| TB || PS || Read [4] at [4101] from translator [2]
+              431000 ||| TB || PS || Read [5] at [4102] from translator [2]
+              441000 ||| TB || PS || Read [6] at [4103] from translator [2]
+              451000 ||| TB || PS || Read [7] at [4104] from translator [2]
+              461000 ||| TB || PS || Read [8] at [4105] from translator [2]
+              612000 ||| TB || PL[2] | Read [1] from [1]
+              622000 ||| TB || PL[2] | Read [2] from [2]
+              632000 ||| TB || PL[2] | Read [3] from [3]
+              642000 ||| TB || PL[2] | Read [4] from [4]
+              652000 ||| TB || PL[2] | Read [5] from [5]
+              662000 ||| TB || PL[2] | Read [6] from [6]
+              672000 ||| TB || PL[2] | Read [7] from [7]
+              682000 ||| TB || PL[2] | Read [8] from [8]
+              692000 ||| TB || PL[2] | Read [9] from [9]
+              773000 ||| TB || RECIEVED ACK | REP_ID = 0 | HEAP_FULL = 00
+Memory Collision Error on RAMB18E1 : dmem_manager_tb.dmem_manager_i.heap_mem_i.\genblk2[9].BRAM_TDP_MACRO_inst .\genblk5.bram18_tdp_bl.bram18_tdp_bl .\gen_tdp.INT_RAMB_TDP .chk_for_col_msg at simulation time 790.000 ns.
+A read was performed on address 0007 (hex) of port B while a write was requested to the same address on port A.  The write will be successful however the read value on port B is unknown until the next CLKB cycle.
+              792000 ||| TB || PL[7] || Writing [11] at [6144]
+              802000 ||| TB || PL[7] || Writing [12] at [6145]
+              812000 ||| TB || PL[7] || Writing [13] at [6146]
+              822000 ||| TB || PL[7] || Writing [14] at [6147]
+              832000 ||| TB || PL[7] || Writing [15] at [6148]
+              842000 ||| TB || PL[7] || Writing [16] at [6149]
+              852000 ||| TB || PL[7] || Writing [17] at [6150]
+              862000 ||| TB || PL[7] || Writing [18] at [6151]
+              872000 ||| TB || PL[7] || Writing [19] at [6152]
+              882000 ||| TB || PL[7] || Writing [20] at [6153]
+$finish called at time : 940 ns : File "C:/VivadoProjects/Thesis/DyMEM_v2_optimized_tb/DyMEM_v1.srcs/sim_1/new/dmem_manager_tb.sv" Line 360
